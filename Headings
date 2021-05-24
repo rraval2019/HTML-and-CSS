@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+  <head>
+
+  </head>
+  <body>
+<h1> Hello! </h1>
+<h2> We are doing headings today</h2>
+ <h3> h1 is the largest font size for a heading </h3>
+ <h4> then comes h2 </h4>
+ <h5> and so on upto h6 </h5>
+ <h6> try making your own headings!</h6>
+  </body>
+</html>
