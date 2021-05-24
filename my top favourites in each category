@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+  <html>
+    <head>
+         <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>repl.it</title>
+    <link href="style.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body bgcolor="orange"                                                             <! this doesn't have to be orange>
+  <marquee><h1><u> My  top 3 favourites in each category</u></h1></marquee>          <!u is for underline><! marquee makes the heading move from right to left. >
+  <ul>                                                                               <! unordered list( bullet points)>
+    <li> top three movies </li> </ul>                                                <! gives a bullet point and closes the point and list>
+ <ol>                                                                                <! ordered list( numbers)>
+     <li> Interstellar </li>
+     <li> Home Alone   </li>
+     <li> Honey I shrunk the kids</li>                                               <! stuff ! want to put in the list>
+</ol>                                                                                <! closes the ordered list>
+<ul>
+     <li> top three books</li> </ul>
+<ol>
+     <li> Harry potter and the goblet of fire</li>
+     <li> What not to do if you turn invisible</li>
+     <li> Wonder </li>
+     </ol>
+  <ul>
+     <li> top three Subjects</li> </ul>                                               <! basically the same thing>
+<ol>
+     <li>Maths</li>
+     <li> Geography </li>
+     <li>English </li>
+     </ol>
+     </body>
+     </html>
+     
