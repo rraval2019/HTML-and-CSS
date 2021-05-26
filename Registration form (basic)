@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+  <html>
+    <head>
+    <title> form </title> 
+    <body bgcolor="sky blue"
+    <h2> Registration Form </h2>
+    <form>
+    <fieldset>
+    <legend>User's Personal Information</legend> 
+    
+    <label>Enter your name</label>
+    <input type= "text" name="name"> <br>
+    
+    <label>Enter your email </label>
+    <input type= "email " name="email "> <br>
+    
+    <label>Enter your password</label> 
+    <input type= "password" name="password "> <br>
+   
+    <label>Confirm your password </label>
+    <input type= "password " name="password"> <br>
+    
+    <input type= "submit" value= "Sign Up"
+    </fieldset>
+    </form>
+    </body>
+    </html
